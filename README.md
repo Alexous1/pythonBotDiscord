@@ -1,5 +1,5 @@
 
-#Création du bot
+# Création du bot
 
 Pour créer un bot, il faut d'abord créer une application dans lequel on va créer notre bot.
 
